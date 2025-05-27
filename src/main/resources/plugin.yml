@@ -1,0 +1,10 @@
+name: SimpleUtilities
+version: ${project.version}
+main: me.maurhice.utilities.Utilities
+authors: [Maurijst]
+description: Basic Utilities for Servers
+commands:
+    StaffMenu:
+        description: Open StaffMenu
+
+
